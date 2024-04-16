@@ -17,3 +17,4 @@ API_VERSION = 'v1'
 
 # for local host if Azure functions served locally
 API_URL = "https://vytt1-func-app.azurewebsites.net/api"
+
